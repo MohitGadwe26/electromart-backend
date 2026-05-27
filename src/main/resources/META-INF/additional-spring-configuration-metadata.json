@@ -1,0 +1,192 @@
+{"properties": [
+  {
+    "name": "file.upload-dir",
+    "type": "java.lang.String",
+    "description": "A description for 'file.upload-dir'"
+  },
+  {
+    "name": "file.product-images",
+    "type": "java.lang.String",
+    "description": "A description for 'file.product-images'"
+  },
+  {
+    "name": "google.auth.client-id",
+    "type": "java.lang.String",
+    "description": "A description for 'google.auth.client-id'"
+  },
+  {
+    "name": "google.auth.client-secret",
+    "type": "java.lang.String",
+    "description": "A description for 'google.auth.client-secret'"
+  },
+  {
+    "name": "google.auth.redirect-uri",
+    "type": "java.lang.String",
+    "description": "A description for 'google.auth.redirect-uri'"
+  },
+  {
+    "name": "google.auth.scope",
+    "type": "java.lang.String",
+    "description": "A description for 'google.auth.scope'"
+  },
+  {
+    "name": "jwt.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.secret'"
+  },
+  {
+    "name": "jwt.expiration",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.expiration'"
+  },
+  {
+    "name": "jwt.refresh-expiration",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.refresh-expiration'"
+  },
+  {
+    "name": "jwt.issuer",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.issuer'"
+  },
+  {
+    "name": "jwt.header",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.header'"
+  },
+  {
+    "name": "jwt.prefix",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.prefix'"
+  },
+  {
+    "name": "reset.token.expiration",
+    "type": "java.lang.String",
+    "description": "A description for 'reset.token.expiration'"
+  },
+  {
+    "name": "reset.token.length",
+    "type": "java.lang.String",
+    "description": "A description for 'reset.token.length'"
+  },
+  {
+    "name": "reset.token.characters",
+    "type": "java.lang.String",
+    "description": "A description for 'reset.token.characters'"
+  },
+  {
+    "name": "file.temp-dir",
+    "type": "java.lang.String",
+    "description": "A description for 'file.temp-dir'"
+  },
+  {
+    "name": "cors.allowed-origins",
+    "type": "java.lang.String",
+    "description": "A description for 'cors.allowed-origins'"
+  },
+  {
+    "name": "cors.allowed-methods",
+    "type": "java.lang.String",
+    "description": "A description for 'cors.allowed-methods'"
+  },
+  {
+    "name": "cors.allowed-headers",
+    "type": "java.lang.String",
+    "description": "A description for 'cors.allowed-headers'"
+  },
+  {
+    "name": "cors.exposed-headers",
+    "type": "java.lang.String",
+    "description": "A description for 'cors.exposed-headers'"
+  },
+  {
+    "name": "cors.allow-credentials",
+    "type": "java.lang.String",
+    "description": "A description for 'cors.allow-credentials'"
+  },
+  {
+    "name": "cors.max-age",
+    "type": "java.lang.String",
+    "description": "A description for 'cors.max-age'"
+  },
+  {
+    "name": "logging.logging.file.name",
+    "type": "java.lang.String",
+    "description": "A description for 'logging.logging.file.name'"
+  },
+  {
+    "name": "management",
+    "type": "java.lang.String",
+    "description": "A description for 'management'"
+  },
+  {
+    "name": "email",
+    "type": "java.lang.String",
+    "description": "A description for 'email'"
+  },
+  {
+    "name": "mail.host",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.host'"
+  },
+  {
+    "name": "mail.port",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.port'"
+  },
+  {
+    "name": "mail.username",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.username'"
+  },
+  {
+    "name": "mail.password",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.password'"
+  },
+  {
+    "name": "mail.properties.mail.smtp.auth",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.properties.mail.smtp.auth'"
+  },
+  {
+    "name": "mail.properties.mail.smtp.starttls.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.properties.mail.smtp.starttls.enable'"
+  },
+  {
+    "name": "mail.properties.mail.smtp.connectiontimeout",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.properties.mail.smtp.connectiontimeout'"
+  },
+  {
+    "name": "mail.properties.mail.smtp.timeout",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.properties.mail.smtp.timeout'"
+  },
+  {
+    "name": "mail.properties.mail.smtp.writetimeout",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.properties.mail.smtp.writetimeout'"
+  },
+  {
+    "name": "google.client.id",
+    "type": "java.lang.String",
+    "description": "A description for 'google.client.id'"
+  },
+  {
+    "name": "google.client.redirect-uri",
+    "type": "java.lang.String",
+    "description": "A description for 'google.client.redirect-uri'"
+  },
+  {
+    "name": "google.client.scope",
+    "type": "java.lang.String",
+    "description": "A description for 'google.client.scope'"
+  },
+  {
+    "name": "google.client.client-secret",
+    "type": "java.lang.String",
+    "description": "A description for 'google.client.client-secret'"
+  }
+]}
