@@ -102,6 +102,11 @@
     <version>2.6.0</version>
 </dependency>
 
+      <dependency>
+    <groupId>com.mysql</groupId>
+    <artifactId>mysql-connector-j</artifactId>
+    <scope>runtime</scope>
+   </dependency>
         <!-- Google API -->
         <dependency>
             <groupId>com.google.api-client</groupId>
