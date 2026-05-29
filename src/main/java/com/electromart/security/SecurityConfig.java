@@ -122,6 +122,7 @@ public class SecurityConfig {
     public CorsConfigurationSource corsConfigurationSource() {
         CorsConfiguration configuration = new CorsConfiguration();
         configuration.setAllowedOrigins(List.of(
+            "https://electromart-frontend-6xfk.onrender.com",
             "http://localhost:5173", 
             "http://localhost:5174", 
             "http://localhost:3000",
