@@ -126,7 +126,7 @@ public class AuthService {
     }
     
     private void sendVerificationEmail(String email, String token) {
-        String verificationLink = "http://localhost:5173/verify-email?token=" + token;
+        String verificationLink = "https://electromart-frontend-6xfk.onrender.com/verify-email?token=" + token;
         String subject = "Verify Your Email - ElectroMart";
         String body = "Hello,\n\nPlease verify your email by clicking the link below:\n\n" + 
                      verificationLink + "\n\nThis link expires in 24 hours.\n\n" +
